@@ -11,11 +11,13 @@ Data strategist transitioning to a Data Scientist role with a solid foundation i
 ## Projects
 
 ### InsureWise (BFSI)
+[GitHub Repository](https://github.com/arsauravkr/ML_Cls_BFSI_InsureWise)
 - **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
 - **Technologies:** Data analysis, mapping, strategy development.
 - **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
 
 ### SupplySense (FMCG/logistics)
+[GitHub Repository](https://github.com/arsauravkr/ML_Reg_FMCG_Supply_Chain)
 - **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
 - **Technologies:** Data analysis, mapping, strategy development.
 - **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
