@@ -22,7 +22,8 @@ Data strategist transitioning to a Data Scientist role with a solid foundation i
 - **Technologies:** Data analysis, mapping, strategy development.
 - **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
 
-### EdiFungi: Navigating the Wilderness
+### EdiFungi: Navigating the Wilderness (Mycology)
+[GitHub Repository](https://github.com/arsauravkr/ML_Cls_Mushroom)
 - **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
 - **Technologies:** Data analysis, mapping, strategy development.
 - **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
