@@ -3,19 +3,19 @@
 **Data Scientist**  
 ar.sauravkr@gmail.com | +91-9470007700  
 [LinkedIn](https://linkedin.com/in/arsauravkr) | [GitHub](https://github.com/arsauravkr)  
-Location: New Delhi, IN
+New Delhi, IN
 
 ## Profile
 Data strategist transitioning to a Data Scientist role with a solid foundation in statistical analysis, machine learning, and data visualization. Skilled in Python, Tableau, and GIS. Proven collaborator communicating tech concepts to diverse stakeholders. Committed to extracting meaningful patterns and advancing data-driven solutions.
 
 ## Projects
 
-### InsureWise
+### InsureWise (BFSI)
 - **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
 - **Technologies:** Data analysis, mapping, strategy development.
 - **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
 
-### Noodle Supply Chain Optimization
+### SupplySense (FMCG/logistics)
 - **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
 - **Technologies:** Data analysis, mapping, strategy development.
 - **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
