@@ -38,7 +38,7 @@ Experienced data strategist transitioning to a Data Scientist role. Proficient i
 
 ## Skills
 - **Technical Skills:** Python, Machine Learning, Natural Language Processing (NLP), Docker, SQL, Tableau, Git/GitHub, Big Data Tools (Learning)
-- **Soft Skills:** Problem-Solving, Analytical Thinking, Effective Communication, Quick Learner
+- **Soft Skills:** Effective Communication, Quick Learner
 
 ## Education
 **Master of Science (Data Science)**  
@@ -73,7 +73,3 @@ Delhi Development Authority, New Delhi, IN
 _October 2013 - April 2016_
 - Utilized Geographic Information System (GIS) for comprehensive data analysis and mapping, focusing on Land Use Land Cover (LULC) classification and change detection.
 - Leveraged spatial data insights to improve recreational spaces in NCT of Delhi, increasing public space usage by 20%.
-
-## Language Proficiency
-- **English:** Full Professional Proficiency
-- **Hindi:** Native or Bilingual Proficiency
