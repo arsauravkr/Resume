@@ -1,45 +1,44 @@
 # Saurav Kumar
-**Data Scientist**  
+## Data Scientist  
 ar.sauravkr@gmail.com | +91-9470007700  
 [LinkedIn](https://linkedin.com/in/arsauravkr) | [GitHub](https://github.com/arsauravkr)  
 New Delhi, IN
 
 ## Profile
-Data strategist transitioning to a Data Scientist role with a solid foundation in statistical analysis, machine learning, and data visualization. Skilled in Python, Tableau, and GIS. Proven collaborator communicating tech concepts to diverse stakeholders. Committed to extracting meaningful patterns and advancing data-driven solutions.
+Experienced data strategist transitioning to a Data Scientist role. Proficient in statistical analysis, data visualization, machine learning, and NLP with Python, Docker, and Tableau. Strong communicator skilled at conveying technical concepts to diverse audiences. Focused on extracting meaningful insights and developing data-driven solutions.
 
 ## Projects
 
-### InsureWise (BFSI)
+### InsureWise: Risk and Premium Management (BFSI)
 [GitHub Repository](https://github.com/arsauravkr/ML_Cls_BFSI_InsureWise)
-- **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
-- **Technologies:** Data analysis, mapping, strategy development.
-- **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
+- **Description:** Developed a predictive model to assess car insurance claim probability.
+- **Technologies:** Python, Machine Learning, Data Visualization.
+- **Achievements:** 
+  - Improved premium setting accuracy and projected a reduction in claim losses by identifying key risk factors.
+  - Analyzed highly imbalanced data from 44 features over 58,592 policies.
+  - Achieved recall of 0.70, F1 score of 0.15, and F2 score of 0.28 for minority class with CatBoost.
 
-### SupplySense (FMCG/logistics)
+### SupplySense: Supply Chain Management (FMCG/logistics)
 [GitHub Repository](https://github.com/arsauravkr/ML_Reg_FMCG_Supply_Chain)
-- **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
-- **Technologies:** Data analysis, mapping, strategy development.
-- **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
+- **Description:** Developed a model to optimize supply chain logistics and reduce operational costs.
+- **Technologies:** Python, Machine Learning, Data Visualization.
+- **Achievements:**
+  - Analyzed and optimized storage and breakdown issues, projecting a 20% improvement in warehouse efficiency.
+  - Analyzed highly imbalanced data from over 25,000 warehouses, uncovering critical insights for better decision-making.
+  - Utilized predictive modeling to forecast quantity shipped, achieving an R-squared value of 99%.
 
 ### EdiFungi: Navigating the Wilderness (Mycology)
 [GitHub Repository](https://github.com/arsauravkr/ML_Cls_Mushroom)
-- **Objective:** Develop navigation and foraging strategies for mushroom identification and survival.
-- **Technologies:** Data analysis, mapping, strategy development.
-- **Result:** Created a comprehensive guide and tool improving foraging efficiency by 30%.
-
-### AirMetrics: Breathing New Life
-- **Objective:** Analyze and improve air quality in Patna.
-- **Technologies:** Data collection, statistical analysis, visualization.
-- **Result:** Found key pollution sources and recommended actionable solutions resulting in a 12% improvement in air quality over six months.
+- **Description:** Developed a predictive model to classify mushroom edibility, ensuring safety for mushroom foragers.
+- **Technologies:** Python, Machine Learning, Data Visualization.
+- **Achievements:**
+  - Built a classification model achieving perfect performance metrics (100% Recall, Precision, F1 Score, and ROC AUC).
+  - Analyzed data from 61,069 records with 21 attributes to identify key features influencing mushroom edibility.
+  - Utilized advanced preprocessing and feature selection techniques, including handling missing values.
 
 ## Skills
-- **Programming Languages:** Python
-- **Machine Learning:** Regression, Classification, Unsupervised Learning
-- **Frameworks:** TensorFlow, PyTorch
-- **Databases:** MySQL
-- **MLOps:** Docker
-- **Data Visualization:** Tableau
-- **Other Tools:** Advanced Excel, GIS
+- **Technical Skills:** Python, Machine Learning, Natural Language Processing (NLP), Docker, SQL, Tableau, Git/GitHub, Big Data Tools (Learning)
+- **Soft Skills:** Problem-Solving, Analytical Thinking, Effective Communication, Quick Learner
 
 ## Education
 **Master of Science (Data Science)**  
@@ -59,29 +58,21 @@ _August 2007 - July 2012_
 **Senior Project Consultant**  
 Ernst & Young LLP, New Delhi, IN  
 _January 2022 - January 2023_
-- Utilized data analysis to find and refine product mix and project components resulting in a 15% increase in efficiency.
-- Prepared master plan and infrastructure plans based on data-driven insights, reducing project planning time by 20%.
-- Developed strategies for efficient project implementation, improving project completion rates by 10%.
+- Conducted data analysis to optimize product mix and project components, leading to a projected 15% increase in efficiency.
+- Created data-driven infrastructure and master plans, reducing project planning time by 20%.
+- Developed data-driven strategies for project implementation, enhancing project completion rates.
 
 **Land Use Planner (GIS)**  
 IPE Global Limited, New Delhi, IN  
 _September 2016 - July 2019_
-- Leveraged data science techniques, including feature extraction from satellite imagery and census data, to develop data-based master plans for the Smart City Project.
-- Developed and presented visualizations to stakeholders, enhancing decision-making processes and reducing planning errors by 15%.
+- Applied data science techniques, including feature extraction from satellite imagery and census data, to develop data-driven master plans for the Smart City Project.
+- Designed and presented visualizations to stakeholders, enhancing decision-making processes.
 
 **Consultant**  
 Delhi Development Authority, New Delhi, IN  
 _October 2013 - April 2016_
-- Applied Geographic Information System (GIS) for comprehensive data analysis, mapping, and in-depth studies involving Land Use Land Cover (LULC) classification and change detection.
-- Employed data insights to improve and enhance recreational spaces in NCT of Delhi, increasing public space usage by 25%.
-
-## Certificates
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Aenean ac interdum nisi.
-
-## Achievements
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-- Aenean ac interdum nisi.
+- Utilized Geographic Information System (GIS) for comprehensive data analysis and mapping, focusing on Land Use Land Cover (LULC) classification and change detection.
+- Leveraged spatial data insights to improve recreational spaces in NCT of Delhi, increasing public space usage by 20%.
 
 ## Language Proficiency
 - **English:** Full Professional Proficiency
