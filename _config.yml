@@ -1,17 +1,3 @@
-author:
-  name: Saurav Kumar
-  email: "ar.sauravkr@gmail.com"
-
-description: >
-  This page is hosted on GitHub Pages.
-
-remote_theme: jekyll/minima
-
-plugins:
-  - jekyll-remote-theme
-
-header_pages:
-  - index.md
-
+theme: minima
 minima:
   skin: auto
