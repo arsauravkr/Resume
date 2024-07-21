@@ -1,0 +1,5 @@
+title: "Resume"
+description: "This is the resume of Saurav Kumar"
+baseurl: "/resume" # the subpath of your site, e.g. /blog
+url: "https://arsauravkr.github.io" # the base hostname & protocol for your site
+theme: jekyll-theme-minimal # you can choose a different theme if you like
