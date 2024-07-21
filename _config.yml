@@ -1,17 +1,17 @@
 title: Resume
-author:
-  name: Saurav Kumar
-  email: ar.sauravkr@gmail.com
+# author:
+  # name: Saurav Kumar
+  # email: ar.sauravkr@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  This page is hosted by [Saurav Kumar](https://github.com/arsauravkr)
+  This page is hosted by Saurav Kumar.
 
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
-theme: minima #remote_theme: jekyll/minima
+remote_theme: jekyll/minima
 
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
@@ -19,7 +19,8 @@ theme: minima #remote_theme: jekyll/minima
 #remote_theme: jekyll/minima
 
 plugins:
-
+  - jekyll-remote-theme
+  
 # Theme-specific settings
 
 # If you want to link only specific pages in your header, use this and add the path to the pages
